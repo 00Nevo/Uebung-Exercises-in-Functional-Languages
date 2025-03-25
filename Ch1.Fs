@@ -1,3 +1,6 @@
+F# for Scientists
+Jon Harrop
+
 INTRODUCTION
 1.2 A BRIEF HISTORY OF F#
 1.3 BENEFITS OF F#
